@@ -1,1 +1,1 @@
-![](button.png)
+![](@google.com/favicon.ico)
