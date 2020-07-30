@@ -1,1 +1,1 @@
-![](https://google.com/favicon.ico)
+[Issue](#1)
