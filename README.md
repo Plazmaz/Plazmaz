@@ -1,1 +1,1 @@
-![](google.com/favicon.ico)
+![](google.com/favicon.png)
