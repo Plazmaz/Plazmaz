@@ -1,1 +1,1 @@
-[Click this Link for a Surprise](#1)
+[![](https://github.com/Plazmaz/Plazmaz/blob/master/button.png?raw=true)](#1)
