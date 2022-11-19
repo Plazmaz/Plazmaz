@@ -21,7 +21,7 @@
                 }
             }
     <!-- re-adding important html feature -->
-    marquee {
+    .marquee {
      font-size: 3em;
      color: limegreen;
      position: absolute;
@@ -63,8 +63,8 @@
     </style>
 
     <!-- HTML -->	
-    <marquee>Scrolling text... </marquee>
             <h1>DYLAN'S PAGE</h1>
+           <span class="marquee">Scrolling text... </span>
         </div>
     </foreignObject>
 </svg>
