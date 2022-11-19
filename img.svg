@@ -4,7 +4,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             * {
-                background-image: url(/BACKGROUNDanimatedchangingcolorstars.gif);
+                background-image: url(BACKGROUNDanimatedchangingcolorstars.gif);
                 background: repeat
             }
             h1 {
@@ -78,7 +78,7 @@
 
     <!-- HTML -->	
             <h1>DYLAN'S PAGE</h1>
-        <div class="marquee"><p style="color: blue; animation: colorshift 10s infinite">Scrolling text...</p></div>
+        <div class="marquee"><p style="color: blue;">Scrolling text...</p></div>
         </div>
     </foreignObject>
 </svg>
