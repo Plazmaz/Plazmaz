@@ -9,10 +9,10 @@
             }
             h1 {
                 color: red;
-                animation: mymove 2s infinite;
+                animation: colorshift 2s infinite;
             }
 
-            @keyframes mymove {
+            @keyframes colorshift {
                 from {
                     color: aqua;
                 }
@@ -25,9 +25,7 @@
                 height: 50px;
                 overflow: hidden;
                 position: relative;
-                background: #fefefe;
                 color: #333;
-                border: 1px solid #4a4a4a;
             }
             
             .marquee p {
@@ -80,7 +78,7 @@
 
     <!-- HTML -->	
             <h1>DYLAN'S PAGE</h1>
-        <div class="marquee"><p>Scrolling text...</p></div>
+        <div class="marquee"><p style="color: blue; animation: colorshift 10s infinite">Scrolling text...</p></div>
         </div>
     </foreignObject>
 </svg>
