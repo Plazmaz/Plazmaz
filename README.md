@@ -1,3 +1,3 @@
-<div width="100%" align="center">
-  <img src="img.svg"/>
+<div width="100vw" align="center">
+  <img src="img.svg" width="100%"/>
   </div>
