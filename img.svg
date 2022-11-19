@@ -3,7 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                #body {
-                  width: 100vw;
+                width: 100vw;
                 height: 100vh;
                 overflow: hidden;
                 }
@@ -81,7 +81,7 @@
     </style>
 
     <!-- HTML -->	
-            <div id="body" width="100%">
+            <div id="body" min-width="100%" min-height="100%">
                 <h1>DYLAN'S PAGE</h1>
                 <div class="marquee"><p style="color: blue;">Welcome to my page! I hope you enjoy your stay!</p></div>
                 
