@@ -64,7 +64,7 @@
 
     <!-- HTML -->	
             <h1>DYLAN'S PAGE</h1>
-           <span class="marquee">Scrolling text... </span>
+           <div class="marquee">Scrolling text... </div>
         </div>
     </foreignObject>
 </svg>
