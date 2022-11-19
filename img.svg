@@ -21,11 +21,6 @@
                 }
             }
     <!-- re-adding important html feature -->
-   <!DOCTYPE html>
-<html>
-
-    <head>
-        <style>
             .marquee {
                 height: 50px;
                 overflow: hidden;
