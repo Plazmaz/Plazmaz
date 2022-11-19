@@ -83,7 +83,7 @@
     </style>
 
     <!-- HTML -->	
-            <div id="body">
+            <div id="body" width="1080">
                 <h1>DYLAN'S PAGE</h1>
                 <div class="marquee"><p style="color: blue;">Scrolling text...</p></div>
             </div>
