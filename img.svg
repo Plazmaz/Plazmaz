@@ -3,6 +3,10 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
+            * {
+                background-image: url(https://web.archive.org/web/20090831160530im_/http://www.geocities.com/jessdchick//BACKGROUNDanimatedchangingcolorstars.gif);
+                background: repeat
+            }
             h1 {
                 color: red;
                 animation: mymove 2s infinite;
@@ -17,7 +21,7 @@
                 }
             }
             </style>
-            <h1>HELLO WORLD!</h1>
+            <h1>DYLAN'S PAGE</h1>
         </div>
     </foreignObject>
 </svg>
