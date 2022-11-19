@@ -12,7 +12,7 @@
                 background-repeat: repeat
                 overflow: visible;
             }
-            h1 {
+            * {
                 color: red;
                 animation: colorshift 2s infinite;
             }
