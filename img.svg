@@ -4,7 +4,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             * {
-                background-image: url(https://web.archive.org/web/20090831160530im_/http://www.geocities.com/jessdchick//BACKGROUNDanimatedchangingcolorstars.gif);
+                background-image: url(/BACKGROUNDanimatedchangingcolorstars.gif);
                 background: repeat
             }
             h1 {
