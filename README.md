@@ -1,5 +1,4 @@
   <img src="img.svg" height="1000vh" width="100%"/>
 <center>
-  Fetched by camo:
-<img src="https://hitwebcounter.com/counter/counter.php?page=8070261&style=0001&nbdigits=5&type=page&initCount=0" title="Number of fetches by camo" Alt="web counter"   border="0" /></a>        
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPlazmaz%2FPlazmaz&count_bg=%2321006E&title_bg=%231B063A&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)    
 </center>
