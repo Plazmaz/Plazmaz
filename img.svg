@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" max-width="100%" width="850" max-height="100vh" height="auto">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" max-width="100%" width="100vw" max-height="100vh" height="auto">
 
     <foreignObject xmlns="http://www.w3.org/2000/svg" width="100vw" height="100%" style="position: absolute; left: 0; top: 0">
         <div xmlns="http://www.w3.org/1999/xhtml">
