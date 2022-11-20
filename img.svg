@@ -21,7 +21,7 @@
                 }
             #glitter1 {
                 position: 50%;
-                translation: transformX(-50%);
+                transform: translateX(-50%);
             }
 
             @keyframes colorshift {
@@ -89,7 +89,7 @@
     </style>
 
     <!-- HTML -->	
-            <div id="body" min-width="100%" min-height="100%">
+            <div id="body" min-width="100%">
                 <h1>DYLAN'S PAGE</h1>
                 <div class="marquee"><p style="color: blue;"><span>Welcome to my page! I hope you enjoy your stay!</span></p></div>
                 <center>
