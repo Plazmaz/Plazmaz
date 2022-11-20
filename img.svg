@@ -113,20 +113,22 @@
                   </tr>
                   <tr>
                     <td>awful-gitposts</td>
-                    <td>leaky-repo</td>
-                    <td>PasteHunter</td>
-                    <td>CVE-2019-18634</td>
-                  </tr>
-                  <tr>
                     <td>https://github.com/Plazmaz/awful-gitposts</td>
-                    <td>https://github.com/Plazmaz/leaky-repo</td>
-                    <td>https://github.com/kevthehermit/PasteHunter</td>
-                    <td>https://github.com/Plazmaz/CVE-2019-18634</td>
+                    <td>Fun</td>
                   </tr>
                   <tr>
-                    <td>Fun</td>
+                    <td>leaky-repo</td>
+                    <td>https://github.com/Plazmaz/leaky-repo</td>
                     <td>Tool</td>
+                  </tr>
+                  <tr>
+                    <td>PasteHunter</td>
+                    <td>https://github.com/kevthehermit/PasteHunter</td>
                     <td>Tool</td>
+                  </tr>
+                  <tr>
+                    <td>CVE-2019-18634</td>
+                    <td>https://github.com/Plazmaz/CVE-2019-18634</td>
                     <td>PoC</td>
                   </tr>
                 </table>
