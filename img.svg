@@ -109,7 +109,7 @@
     </style>
 
     <!-- HTML -->	
-            <div id="body" min-width="100%">
+            <div id="body" min-width="500vw">
                 <p align="center" width="100%">
                     <h1><span class="earth"></span>DYLAN'S PAGE<span class="earth"></span></h1>
                 <div class="marquee"><p style="color: blue !important; font-size: 20pt"><span>Welcome to my page! I hope you enjoy your stay!</span></p></div>
